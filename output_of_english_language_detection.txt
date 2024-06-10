@@ -1,0 +1,6 @@
+Checking if texts are in English: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:00<00:00,  8.51it/s]
+Hello this is my game is English.
+Thalapathy Vijay is The greatest of all time is English.
+gasaf bafasfasf asfasfas gasfreasfasf afasfa is not english, please try to input english texts only...
+I am waiting for long time, are you here? is English.
+enna pesureenga neenga? puriyalaye enakku... is not english, please try to input english texts only...
